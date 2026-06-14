@@ -1,0 +1,8 @@
+Date,Product,Category,Quantity,Sales,Revenue
+2025-01-01,Laptop,Electronics,5,250000,50000
+2025-01-05,Phone,Electronics,10,300000,60000
+2025-01-10,Tshirt,Clothing,20,40000,10000
+2025-02-01,Laptop,Electronics,3,150000,30000
+2025-02-15,Book,Books,50,25000,8000
+2025-03-01,Phone,Electronics,8,240000,50000
+2025-03-10,Tshirt,Clothing,25,50000,12000
